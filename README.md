@@ -4,7 +4,7 @@ Task Manager Using Laravel + Vuejs + Typescript + Vuex
 
 
 ##Demo
-<a href="https://i.imgur.com/eRk5X8a.gif"><img src="https://i.imgur.com/eRk5X8a.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/eRk5X8a"><img src="https://imgur.com/eRk5X8a.gif" title="source: imgur.com" /></a>
 
 
 
